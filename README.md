@@ -6,6 +6,8 @@ Official code and benchmark for the paper:
 
 This repository provides the **IndMRec** (Industrial Model Recommendation) method, a curated benchmark of industrial monitoring cases, and scripts to reproduce the experimental pipeline: score-matrix generation → meta-feature extraction → recommender training/evaluation.
 
+![IndMRec framework overview](framework.png)
+
 ---
 
 ## Overview
