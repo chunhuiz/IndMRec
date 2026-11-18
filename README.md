@@ -148,7 +148,7 @@ Some generic meta-features reference [MetaOD](https://github.com/yzhao062/metaod
 
 If you use this benchmark or data or code, please cite our paper (TII):
 
-> B. Li, C. Zhao and B. Huang, "Addressing the Dilemma of Choice: Industrial Model Recommender Method and Benchmark for Time Series Monitoring Tasks," in *IEEE Transactions on Industrial Informatics*, vol. XX, no. XX, pp. XXXX-XXXX, 2026, doi: XX.XXXX/TII.XXXX.XXXXXXX.
+> Baoxue Li, Chunhui Zhao, Biao Huang, Addressing the Dilemma of Choice: Industrial Model Recommender Method and Benchmark for Time Series Monitoring Tasks, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2026.3722726.
 
 ```bibtex
 @article{IndMRec2026,
